@@ -1,0 +1,18 @@
+<resources>
+
+
+    <!-- Style principal de la App -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+
+        <!-- Aplica la paleta de colores -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Oculta el ActionBar -->
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+</resources>

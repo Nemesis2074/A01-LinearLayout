@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Linear Layout Demo</string>
+
+    <string name="hint_user">Usuario&#8230;</string>
+    <string name="hint_password">Contraseña&#8230;</string>
+
+    <string name="button_login">Iniciar sesión</string>
+
+</resources>
